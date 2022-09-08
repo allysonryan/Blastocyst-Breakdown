@@ -1,2 +1,2 @@
 # phd_notebooks
-Jupyter Notebooks from my PhD
+Jupyter notebooks for the segmentation and tracking of cell populations and lumen growth in the developing mouse blastocyst.
